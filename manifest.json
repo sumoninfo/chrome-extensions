@@ -1,0 +1,9 @@
+{
+  "name": "Simple Toggle Site",
+  "version": "1.0.0",
+  "description": "loram ipsum",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 3
+}
